@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Education Technology and Multimodal Learning Analytics.
 - 🌱 I’m currently learning building and deployment of machine learning in production.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
+- 📫 How to reach me: pankajchejara23@gmail.com
 
 <!---
 pankajchejara23/pankajchejara23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
