@@ -10,7 +10,7 @@ Check out my [Blog](https://pankajchejara23.github.io/).
 ---
 
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=pankajchejara23&show_icons=true&hide=contribs" />
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=pankajchejara23&show_icons=true" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajchejara23&langs_count=8&layout=compact" /></div>
