@@ -8,13 +8,7 @@ I’m deeply interested in Machine Learning, Education Technology, Multimodal Le
 
 I’m diving into building and deploying machine learning models in production environments while applying my skills in the field of bioinformatics. My current focus is on health data science, working with genomic data to uncover insights for personalized healthcare.
 
-💡 Looking to Collaborate On:
-
-I’d love to collaborate on:
-
-    Projects involving machine learning applications in education technology or bioinformatics.
-    Gene sequence analysis using machine learning.
-    End-to-end ML pipelines for health data or multimodal learning analytics.
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajchejara23&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 📫 Let’s Connect:
 
