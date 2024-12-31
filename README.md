@@ -1,4 +1,5 @@
-# **Hi, I’m Pankaj Chejara! 👋**
+![profile](https://github.com/user-attachments/assets/1f0ae86d-c9a2-4669-9d1d-2e72eb9e23f8)
+
 <img src="https://komarev.com/ghpvc/?username=pankajchejara23&color=brightgreen" alt="watching_count" />
 
 I’m deeply interested in Machine Learning, Education Technology, Multimodal Learning Analytics, and now Bioinformatics. I aim to leverage data science to drive innovation and bridge the gap between research and industry. Here you will find some of my starred projects. 
