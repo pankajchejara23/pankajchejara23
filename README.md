@@ -1,5 +1,5 @@
-Hi, I’m Pankaj Chejara! 👋
-
+# **Hi, I’m Pankaj Chejara! 👋**
+<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
 🚀 Passionate About:
 
 I’m deeply interested in Machine Learning, Education Technology, Multimodal Learning Analytics, and now Bioinformatics. I aim to leverage data science to drive innovation and bridge the gap between research and industry.
@@ -14,9 +14,7 @@ I’m diving into building and deploying machine learning models in production e
 
 <img src="https://myreadme.vercel.app/api/embed/pankajchejara23?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-![Metrics](https://metrics.lecoq.io/pankajchejara23?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
-![Metrics](https://metrics.lecoq.io/pankajchejara23?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 📫 Let’s Connect:
 
