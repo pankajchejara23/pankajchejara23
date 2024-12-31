@@ -1,5 +1,5 @@
 
-![profile2](https://github.com/user-attachments/assets/e4065caf-2141-494b-8d98-58037000d369)
+![github-header-image(6)](https://github.com/user-attachments/assets/ab510d07-0d18-4468-b2dd-e8f64f12e0bd)
 
 <img src="https://komarev.com/ghpvc/?username=pankajchejara23&color=brightgreen" alt="watching_count" />
 
