@@ -1,4 +1,5 @@
-![profile](https://github.com/user-attachments/assets/1f0ae86d-c9a2-4669-9d1d-2e72eb9e23f8)
+
+![profile2](https://github.com/user-attachments/assets/e4065caf-2141-494b-8d98-58037000d369)
 
 <img src="https://komarev.com/ghpvc/?username=pankajchejara23&color=brightgreen" alt="watching_count" />
 
