@@ -5,7 +5,7 @@
 
 I’m deeply interested in Machine Learning, Education Technology, Multimodal Learning Analytics, and now Bioinformatics. I aim to leverage data science to drive innovation and bridge the gap between research and industry. Here you will find some of my starred projects. 
 
-Currently: Health Data Scientist @ Metrosert AS, Tallinn, Estonia
+*Currently:* Health Data Scientist @ Metrosert AS, Tallinn, Estonia
 
 Check out my [Blog](https://pankajchejara23.github.io/).
 
