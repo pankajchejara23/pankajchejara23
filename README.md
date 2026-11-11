@@ -26,4 +26,4 @@ I write about data science, learning analytics and bioinformatics on my [blog](h
 
 Open to collaborations at the intersection of AI, healthcare and education.
 
-[Blog](https://pankajchejara23.github.io/) · [Email](mailto:pankajchejara23@gmail.com)· [LinkedIn](https://www.linkedin.com/in/pankaj-chejara-5ab77855/) · [Google Scholar](https://scholar.google.com/citations?user=TI9EsF4AAAAJ&hl=en) · [Medium](https://medium.com/@pankajchejara) 
+[Blog](https://pankajchejara23.github.io/) · [Email](mailto:pankajchejara23@gmail.com) ·  [LinkedIn](https://www.linkedin.com/in/pankaj-chejara-5ab77855/) · [Google Scholar](https://scholar.google.com/citations?user=TI9EsF4AAAAJ&hl=en) · [Medium](https://medium.com/@pankajchejara) 
