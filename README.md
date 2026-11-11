@@ -1,32 +1,29 @@
+![header](https://github.com/user-attachments/assets/ab510d07-0d18-4468-b2dd-e8f64f12e0bd)
 
-![github-header-image(6)](https://github.com/user-attachments/assets/ab510d07-0d18-4468-b2dd-e8f64f12e0bd)
+### Hi, I'm Pankaj
 
-<img src="https://komarev.com/ghpvc/?username=pankajchejara23&color=brightgreen" alt="watching_count" />
+Health Data Scientist at **Metrosert AS** in Tallinn, Estonia.
 
-I’m deeply interested in Machine Learning, Education Technology, Multimodal Learning Analytics, and now Bioinformatics. I aim to leverage data science to drive innovation and bridge the gap between research and industry. Here you will find some of my starred projects. 
+I work where machine learning meets healthcare and education, turning research ideas into tools people can actually use.
 
-*Currently:* Health Data Scientist @ Metrosert AS, Tallinn, Estonia
+- **Now:** Modeling patient outcomes for myocardial infarction in Estonia using national health databases
+- **Background:** multimodal learning analytics and education technology
+- **Tools:** Python · R · SQL · Django  
 
-Check out my [Blog](https://pankajchejara23.github.io/).
+#### Selected work
 
----
+| Project | Description |
+|---|---|
+| [Genome sequencing data processing pipelines](https://github.com/pankajchejara23/16S-workflow) | Snakemake-based workflow designed to process 16S rRNA sequencing data |
+| [Collaboration prediction in real-time](https://github.com/centre-for-educational-technology/Taico-cotrack) | Web application to allow teachers to create and monitor group activities in their classroom |
+| [Bayesian modeling of students’ mathematics skills](https://github.com/pankajchejara23/eduflex-prototype/tree/main) | Bayesian modeling of students’ mathematics skills |
 
-<div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=pankajchejara23&show_icons=true" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajchejara23&langs_count=8&layout=compact" /></div>
-</div>
+#### Writing
 
----
-## 🌱 Currently Exploring
+I write about data science, learning analytics and bioinformatics on my [blog](https://pankajchejara23.github.io/).
 
-I’m diving into **genome analysis (16S amplicon and metagenomic sequence analysis)** for building health applications with a focus on cancer in the field of bioinformatics. 
+#### Get in touch
 
+Open to collaborations at the intersection of AI, healthcare and education.
 
----
-
-
-## 📫 Let’s Connect:
-
-Feel free to reach out at pankajchejara23@gmail.com for collaborations, discussions, or to exchange ideas about the intersection of AI, healthcare, and education.
+[Blog](https://pankajchejara23.github.io/) · [Email](mailto:pankajchejara23@gmail.com)· [LinkedIn](https://www.linkedin.com/in/pankaj-chejara-5ab77855/) · [Google Scholar](https://scholar.google.com/citations?user=TI9EsF4AAAAJ&hl=en) · [Medium](https://medium.com/@pankajchejara) 
